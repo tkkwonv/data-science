@@ -96,10 +96,3 @@ return true;
 
 이와 같이 칸이 비어서 나오게 됩니다.  
 여기까지가 블럭과 테이블에대한 내용이었습니다.
-
-[1장. 제목과 호라이즌](https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012)  
-[2장. 리스트와 인용](https://gist.github.com/ninanung/73addc0263b34da5f021d2f02a356b7f)  
-[3장. 개행과 문자강조](https://gist.github.com/ninanung/22266a9c7afbece6d899e1927248b85b)  
-[4장. 링크와 이미지넣기](https://gist.github.com/ninanung/2b81a5db946c26c98c573e3662a92b62)  
-[5장. 블럭과 테이블](https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3)  
-[기스트목록](https://gist.github.com/ninanung)
